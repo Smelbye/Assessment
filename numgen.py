@@ -4,7 +4,7 @@ from random import randint as rand
 class generatenumber:
 
     @classmethod
-
+# This is my number generator. Feel free to work on it!
     def generate(cls, amount, minRange, maxRange):
         if type(amount) != int:
             print("Amount must be an integer")
