@@ -21,4 +21,4 @@ class generatenumber:
             print(number)
 
 
-number = generatenumber.generate(5, 10, 50)
+number = generatenumber.generate(4, 5, 100)
